@@ -1,10 +1,10 @@
 #include <stdio.h>
-//ÀûÓÃº¯ÊıÊµÏÖÊä³ö200-300¼äµÄËØÊı 
+//åˆ©ç”¨å‡½æ•°åˆ¤æ–­ç´ æ•° 
 int main(int argc, char *argv[])
 {
 	void sushu(int i);
 	int a;
-	printf("ÇëÊäÈëÒ»¸öÊı£º");
+	printf("è¯·è¾“å…¥ä¸€ä¸ªæ•°ï¼š");
 	scanf("%d",&a);
 	sushu(a);
 	return 0;
@@ -16,6 +16,6 @@ void sushu(int i)
 	for(j=2;j<=i-1;j++)
 		if(i%j==0) break;
 		
-	if(j>=i) printf("%dÊÇËØÊı.\n",i);
-	else printf("%d²»ÊÇËØÊı.\n",i);
+	if(j>=i) printf("%dæ˜¯ç´ æ•°.\n",i);
+	else printf("%dä¸æ˜¯ç´ æ•°.\n",i);
 } 
