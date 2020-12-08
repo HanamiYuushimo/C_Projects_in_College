@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 	scanf("%d,%d",&a,&b);
 	c=max(a,b);
 	d=min(a,b);
-	printf("最大值为：%d;最小值为：%d。\n",c,d);
+	printf("最大值为%d,最小值为%d.\n",c,d);
 	return 0;
 }
 
