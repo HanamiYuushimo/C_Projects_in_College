@@ -1,15 +1,15 @@
 #include <stdio.h>
-
+//åˆ©ç”¨å‡½æ•°å®ç°ä¸¤ä¸ªæ•°æ¯”è¾ƒå¤§å°
 int main(int argc, char *argv[])
 {
 	int a,b,c,d;
 	int max(int a,int b);
 	int min(int a,int b);
-	printf("ÇëÊäÈëÁ½¸öÊı×Ö£¬ÓÃ¶ººÅ¸ô¿ª£º");
+	printf("è¯·è¾“å…¥ä¸¤ä¸ªæ•°å­—ï¼Œç”¨é€—å·éš”å¼€ï¼š");
 	scanf("%d,%d",&a,&b);
 	c=max(a,b);
 	d=min(a,b);
-	printf("×î´óÖµÎª£º%d;×îĞ¡ÖµÎª£º%d¡£\n",c,d);
+	printf("æœ€å¤§å€¼ä¸ºï¼š%d;æœ€å°å€¼ä¸ºï¼š%dã€‚\n",c,d);
 	return 0;
 }
 
