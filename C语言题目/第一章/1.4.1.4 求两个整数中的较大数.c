@@ -16,3 +16,5 @@ int max(int x,int y)
     else z=y;
     return z;
 }
+
+//同理还可实现求较小数。
