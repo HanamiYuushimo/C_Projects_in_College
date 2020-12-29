@@ -1,4 +1,4 @@
-# C_Projects_in_College
+# C_Projects_in_UJNPL
 ### 这是什么？
 这是一个C语言项目，目的在于**把课上老师讲过的内容进行存档**。
 
