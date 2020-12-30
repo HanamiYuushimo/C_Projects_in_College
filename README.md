@@ -68,14 +68,20 @@
     - [求 100~200 的全部素数](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/4.1%20%E6%B1%82%20100~200%20%E7%9A%84%E5%85%A8%E9%83%A8%E7%B4%A0%E6%95%B0.c)
   - [输出九九乘法表](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/5%20%E8%BE%93%E5%87%BA%E4%B9%9D%E4%B9%9D%E4%B9%98%E6%B3%95%E8%A1%A8.c)
   - 输出图案
-    - 输出正方形
+    - [输出矩形](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.1%20%E8%BE%93%E5%87%BA%E7%9F%A9%E5%BD%A2.c)
     - 输出直角三角形
-    - 输出等腰三角形
-    - 输出菱形（习题P138 第16题）
+      - [直角在左下角](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.2%20%E8%BE%93%E5%87%BA%E7%9B%B4%E8%A7%92%E5%9C%A8%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%BD%A2.c)
+      - [直角在右下角](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.3%20%E8%BE%93%E5%87%BA%E7%9B%B4%E8%A7%92%E5%9C%A8%E5%8F%B3%E4%B8%8B%E8%A7%92%E7%9A%84%E4%B8%89%E8%A7%92%E5%BD%A2.c)
+    - [输出等腰三角形](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.4%20%E8%BE%93%E5%87%BA%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2.c)
+      - [输出任意行数的等腰三角形](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.4.1%20%E8%BE%93%E5%87%BA%E4%BB%BB%E6%84%8F%E8%A1%8C%E6%95%B0%E7%9A%84%E7%AD%89%E8%85%B0%E4%B8%89%E8%A7%92%E5%BD%A2.c)
+    - [输出菱形（习题P138 第16题）](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/6.5%20%E8%BE%93%E5%87%BA%E8%8F%B1%E5%BD%A2.c)
   - 输出水仙花数（习题P137 第6题）
+    - [法1](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/7.1%20%E8%BE%93%E5%87%BA%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0%EF%BC%88%E6%B3%951%EF%BC%89.c)
+    - [法2](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/7.1%20%E8%BE%93%E5%87%BA%E6%B0%B4%E4%BB%99%E8%8A%B1%E6%95%B0%EF%BC%88%E6%B3%951%EF%BC%89.c)
+  - [猴子吃桃问题（习题P138 第12题）](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%BA%94%E7%AB%A0/8%20%E7%8C%B4%E5%AD%90%E5%90%83%E6%A1%83%E9%97%AE%E9%A2%98.c)
   - 习题P137 第10题
   - 习题P138 第11题
-  - 猴子吃桃问题（习题P138 第12题）
+  
   
 - 第六章 数组
   - 利用冒泡法进行排序
