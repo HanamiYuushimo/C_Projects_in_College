@@ -1,6 +1,8 @@
 # C_Projects_in_UJNPL
 ### 这是什么？
-这是一个C语言项目，目的在于**把课上老师讲过的内容进行存档**。 ~~才不是因为早就料到你们都会临时抱佛脚才建了这个项目呢（~~
+这是一个C语言项目，目的在于**把课上老师讲过的内容进行存档**。 
+
+~~才不是因为早就料到你们都会临时抱佛脚才建了这个项目呢（~~
 
 本项目从2020年12月11日开始将大量代码上传至GitHub，~~在27日更新完毕。~~ 咕了，考试前更不完了（
 
@@ -14,9 +16,11 @@
 ### 目录
 为了查找方便，下面列出这个仓库中的所有内容，点击链接即可跳转到代码页面。~~没有链接的就表明还没肝完（~~
 
-~~与题目、代码相关的解释和说明请到[C语言题目](https://github.com/HanamiYuushimo/C_Projects_in_College/tree/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE)下相关的章节内查看。~~
+~~与题目、代码相关的解释和说明请到[C语言题目](https://github.com/HanamiYuushimo/C_Projects_in_College/tree/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE)下相关的章节内查看。~~咕了，自己理解去吧（
 
-咕了，自己理解去吧（
+#### 注意！
+
+程序可能出现 bug！如遇到 bug 请及时反馈！
 
 - 第一章 程序设计和C语言
   - [最简单的C语言程序举例](https://github.com/HanamiYuushimo/C_Projects_in_UJNPL/blob/main/C%E8%AF%AD%E8%A8%80%E9%A2%98%E7%9B%AE/%E7%AC%AC%E4%B8%80%E7%AB%A0/1%20%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E4%B8%BE%E4%BE%8B.c)
