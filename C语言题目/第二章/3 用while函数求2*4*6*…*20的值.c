@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int p=2;i=4;
+    int p=2,i=4;
     while(i<=18)
     {
         p=p*i;
