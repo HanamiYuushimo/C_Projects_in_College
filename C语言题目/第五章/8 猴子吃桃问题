@@ -1,7 +1,0 @@
-#include <stdio.h>
-//题目见习题P138 第12题
-int main()
-{
-    
-    return 0;
-}
